@@ -1,4 +1,4 @@
-![Repository Banner](banner.png)
+![Repository Banner](banner.jpg)
 
 [![](https://komarev.com/ghpvc/?username=mrezaulkarim&color=blue&label=Profile%20Views)](https://github.com/mrezaulkarim/mrezaulkarim)
 [![](https://img.shields.io/github/followers/mrezaulkarim?label=GitHub%20Followers)](https://github.com/mrezaulkarim)
