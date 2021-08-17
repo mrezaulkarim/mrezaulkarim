@@ -13,17 +13,17 @@ I'm a Web Developer helping others become one too.
 
 ### Let's Connect 🔗
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/marko-denic-full-stack-developer/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/denicmarko) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/markodenic1/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mrezaulkarim-dev)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/mrezaulkarim_)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/stack.content/)
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Courses](https://markodenic.com/free-courses/)
-- [Make your first open source contribution](https://markodenic.com/make-your-first-open-source-contribution/)
-- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
-- [CSS Generators](https://markodenic.com/css-generators/)
-- [Technical interview resources](https://markodenic.com/resources-to-crush-the-technical-interview/)
+  - [JavaScript ECMAScript 6 – (ES6) Cheat Sheet](https://mrezaulkarim.com/es6-cheat-sheet/)
+  - [PSD to HTML with Source Code (Free)](https://mrezaulkarim.com/psd-to-html-with-source-code-free/)
+  - [Free Resources to Learn Front End Development](https://mrezaulkarim.com/free-resources-to-learn-front-end-development/)
+  - [CSS Shorthand Properties- Useful CSS Shorthand](https://mrezaulkarim.com/css-shorthand-useful-css-shorthand-properties/)
+  - [Top 10 Animation Libraries – (CSS + JavaScript )](https://mrezaulkarim.com/top-10-animation-libraries-css-animation-javascript-animation/)
 <!-- BLOG-POST-LIST:END -->
 
 
