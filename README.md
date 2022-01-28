@@ -19,6 +19,7 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+  - [Programming Quiz - Test your programming Knowledge!](https://mrezaulkarim.com/es6-cheat-sheet/)
   - [JavaScript ECMAScript 6 – (ES6) Cheat Sheet](https://mrezaulkarim.com/es6-cheat-sheet/)
   - [PSD to HTML with Source Code (Free)](https://mrezaulkarim.com/psd-to-html-with-source-code-free/)
   - [Free Resources to Learn Front End Development](https://mrezaulkarim.com/free-resources-to-learn-front-end-development/)
