@@ -5,7 +5,7 @@
 
 # Hi! 👋 I'm [Rezaul karim](https://mrezaulkarim.com) 💻
 
-I'm a Web Developer helping others become one too.
+Programming Enthusiast.Love to help others.
 Love to contribute in open sources.
 
 ## ⚡ Github Stats
